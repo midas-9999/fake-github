@@ -1,0 +1,82 @@
+Making fake commit
+
+git filter-branch -f --env-filter "
+    GIT_AUTHOR_NAME='midas-9999'
+    GIT_AUTHOR_EMAIL='jackma.dev111@outlook.com'
+    GIT_COMMITTER_NAME='midas-9999'
+    GIT_COMMITTER_EMAIL='jackma.dev111@outlook.com'
+  " HEAD
+git push --force --all
+10:28
+1: find repo to steal. Copy the SSH address of the repository
+2: In git, 'git clone git@github.com:xxx/yyy'
+3: 'cd yyy'
+4: 'git remote remove origin'
+5: 'git remote add origin http://github.com/superboy/yyyyy'
+6: git branch -M main
+7: git  push -u origin main
+
+Collaboration with Upwork.
+
+someone got this email some days ago. It might be helpful to see how others are composing email. (edited) 
+Looking for a long-term partner
+ 
+I'm Cui, a frontend developer with over 8 years of experience in React, Vue, and Angular. For many years, I've been working on Upwork through a Germany-based account, where I've built a solid reputation with clients. Unfortunately, the person who let me use his account can no longer support me due to personal reasons. So now, I'm looking for someone to collaborate with, and your GitHub profile caught my attention.
+In the past, I've worked successfully with the Germany account owner by paying them 10% of my monthly earnings . I'd like to set up a similar long-term partnership with you.
+Here's how it could work:
+Option 1: Use Your Existing Upwork Account
+If you have an Upwork account that you don't use much, I'd love to use it when you're not active. To avoid any issues, I'd access it directly from your computer using remote tools like TeamViewer or AnyDesk. This ensures the account stays secure and avoids IP conflicts.
+Option 2: Create a New Account Together
+If you're open to it, you could create a new Upwork account specifically for this collaboration.
+- How can we transfer money with each other?
+You can add Payoneer or Paypal to your Upwork account and If I earn some money using your Upwork account, we can withdraw it via your Payoneer or Paypal.
+And then you can get 10 % of the money from there and you can send the rest of the money to my Paypal or Payoneer.
+- Why do I need access to your locale via Teamviewer or Anydesk?
+Upwork has strict rules about accounts being used from different locations. If I try to access the account through a VPN, VPS, or AWS server, it will likely get blocked because Upwork detects proxy server IPs. That's why I need to use your account directly from your local computer. If you're worried about privacy, we can set up a virtual machine (VM) on your computer to keep everything separate.
+- You don't have to worry about me stealing and have your Upwork account. Why?
+You don't need to worry about me misusing your account. If I tried to log in from another location, Upwork would immediately block it due to IP changes. Plus, Upwork sometimes requires video chats with clients, so your involvement is essential.
+Additional Opportunities
+If you have any personal projects that need development work, I'd be happy to help bring them to life. My experience ensures high-quality results tailored to your needs.
+Let me know if you're interested in discussing this further. I'd love to explore how we can make this partnership work for both of us. Thanks for considering, and I look forward to hearing from you!
+Thanks
+Cui
+
+Small tasks or fixing bugs.
+<Job Description>
+// Please describe the job description.
+</Job Description>
+
+<Required Skills>
+// Please list the skills required for the job.
+</Required Skills>
+
+I need your help in writing a cover letter, and you need to complete the following requirement.
+
+<Requirement>
+1. Analyze the job description.
+2. Find the solutions and write a cover letter.
+3. The cover letter should be simple and clear and be less than 3-4 sentences.
+</Requirement>
+
+<Style>
+Hello,
+
+...explain how to solve the issues in the job description or project requirement...
+
+I'm ready to start right away and can deliver 100% completed tasks within your timeline.
+
+Best Regards,
+</Style>
+
+
+@channel here are some places to hire a React dev:
+https://jschimp.com/ - find React & UI devs of all shapes and sizes globally
+Lemon.io - Eastern European devs
+Gun.io - they have mainly React Devs
+CloudDevs & Revelo- Latin America devs
+https://beon.tech/engineers - Latin America devs
+https://fatcatcoders.com
+
+
+
+
